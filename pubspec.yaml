@@ -1,0 +1,27 @@
+# Developed by Eng Mouaz M AlShahmeh
+name: ladder_snack_flutter_game
+description: Developed by Eng Mouaz M AlShahmeh
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+  flutter_localizations:
+    sdk: flutter
+    version: ^0.0.0
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  fluttertoast: ^8.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
